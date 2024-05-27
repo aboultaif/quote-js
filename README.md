@@ -12,6 +12,6 @@
 
 Thanks! 
 
-![Image of Dog]("https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg")
+![Hola](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
-[Image Link from Wikipedia]("https://simple.wikipedia.org/wiki/JavaScript")
+[Image Link from Wikipedia](https://simple.wikipedia.org/wiki/JavaScript)
