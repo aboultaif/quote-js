@@ -1,12 +1,12 @@
 # Hey!, this my first GitHub JS Project 
 
-**It does**
+**Does.**
 
 1. Read a txt file in js.
-2. Search for new lines in case there is.
-3. Slices new lines with the indexOf array function
-4. It creates a random Index of the quotes list 
-5. Logs the quotes array random index
+2. Search for new lines in case there are any.
+3. Cut new lines with the indexOf array function.
+4. Creates a random index of the list of quotes. 
+5. Records the random index of the quotes array
 
 ## Done!
 
