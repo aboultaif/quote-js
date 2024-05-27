@@ -12,6 +12,6 @@
 
 Thanks! 
 
-![Hola](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="" width="200px" height="200px">
 
 [Image Link from Wikipedia](https://simple.wikipedia.org/wiki/JavaScript)
